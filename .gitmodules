@@ -1,0 +1,9 @@
+[submodule "users"]
+	path = users
+	url = https://github.com/nplsm/neoplasm-users.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/nplsm/neopalsm-api-gateway.git
+[submodule "site"]
+	path = site
+	url = https://github.com/nplsm/neoplasm-site.git
